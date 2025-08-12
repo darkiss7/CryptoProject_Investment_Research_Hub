@@ -19,7 +19,7 @@ On-chain metrics, whale distribution, capital flows, and market trends.
 
 | Project | Date | Report Link | Code Link |
 | ------- | ---- | ----------- | --------- |
-| Ethena ($ENA) | Aug 2025 | [View](https://newpublish0fproject.notion.site/Ethena-ENA-24751f6c3083802197a1d61e32367d6e?source=copy_link) | [View](https://darkiss7.github.io/EthenaAnalysis.html) |
+| Ethena ($ENA) | Aug 2025 | [Report](https://newpublish0fproject.notion.site/Ethena-ENA-24751f6c3083802197a1d61e32367d6e?source=copy_link) | [Code](https://darkiss7.github.io/EthenaAnalysis.html) |
 <!-- | Solana ($SOL) | Jul 2025 | [View](docs/solana-jul2025.html) | -->
 <!-- | EigenLayer ($EIGEN) | Jun 2025 | [View](docs/eigenlayer-jun2025.html) | -->
 
