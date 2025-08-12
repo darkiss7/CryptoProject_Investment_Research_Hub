@@ -11,7 +11,7 @@ Each report contains **on-chain analytics, tokenomics breakdown, ecosystem updat
 **Ethena ($ENA)** – *August 2025*  
 On-chain metrics, whale distribution, capital flows, and market trends.
 
-🔗 **[Read the full report →](docs/EthenaAnalysis.html)**
+🔗 **[Read the full report →](https://newpublish0fproject.notion.site/Ethena-ENA-24751f6c3083802197a1d61e32367d6e?source=copy_link)**
 
 ---
 
